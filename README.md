@@ -1,6 +1,6 @@
 # CPU Scheduling Simulator
 
-This project is a C++ based CPU Scheduling Simulator developed to demonstrate the working of different CPU scheduling algorithms.
+This project is a C++ based CPU Scheduling Simulator developed to understand and implement different CPU scheduling algorithms.
 
 ## Algorithms Implemented
 
@@ -11,7 +11,7 @@ This project is a C++ based CPU Scheduling Simulator developed to demonstrate th
 
 ## Features
 
-- Takes process Arrival Time, Burst Time and Priority as input.
+- Takes Arrival Time, Burst Time and Priority as input.
 - Allows the user to select a scheduling algorithm.
 - Supports user-defined Time Quantum for Round Robin.
 - Calculates Completion Time (CT).
@@ -49,10 +49,19 @@ cpu-scheduling-simulator/
 
 ## Project Objective
 
-The main objective of this project is to understand and implement CPU scheduling algorithms using C++. The project also demonstrates the use of vectors, queues, sorting and basic algorithmic concepts.
+The objective of this project is to understand and implement CPU scheduling algorithms using C++. It also demonstrates the use of vectors, queues, sorting and basic algorithmic concepts.
+
+## Project Information
+
+Developed during Summer Training / Internship
+
+Duration: 10 June 2026 - 25 July 2026
+
+Course: Data Structures and Algorithms using C++
 
 ## Author
 
 Anush Choudhary
-B.Tech CSE
+
+B.Tech CSE  
 Lovely Professional University
